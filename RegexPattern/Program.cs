@@ -4,7 +4,7 @@ using RegexPattern;
 
 Pattern patterns = new Pattern();
 //Console.WriteLine(patterns.validatePinCode("xyz@bridgelabz.com.in.in.in"));
-if (patterns.validateString("Tomesh"))
+if (patterns.validateString("Sahu"))
 {
     Console.WriteLine("Valid");
 }

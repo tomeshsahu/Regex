@@ -10,7 +10,7 @@ namespace RegexPattern
     public class Pattern
     {
 
-        public static string RegexRules = "^[A-Za-z]{8,}$";
+        public static string RegexRules = "^[A-Z]{1}[A-Za-z]{7,}$";
 
         // !0
         //public static string regex = "^([A-Za-z0-9]+[.#+_])*[A-Za-z0-9]+[@][A-Za-z]+[.][A-Za-z]{2,3}([.][A-Za-z]{2})?$";
